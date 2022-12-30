@@ -12,7 +12,7 @@ trigger:
 #    - main
 
 variables:
-  name: martin
+  name: Dr. Fernando
 
 pool:
   vmImage: ubuntu-latest
